@@ -45,7 +45,7 @@ OLIVIA speaks more times than VIOLA.
 
 ls | grep -v -r "[a-z]" Data.txt
 <br>
-tr '[:space:]' '[\n*]' < example.txt | grep -i -c mauris
+tr '[:space:]' '[\n*]' < Data.txt | grep -i -c OLIVIA
 <br>
 
 $ tr ' ' '\n' < Data.txt | grep VIOLA | wc -l
