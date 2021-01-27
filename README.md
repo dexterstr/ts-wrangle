@@ -1,6 +1,6 @@
 # ts-wrangle
 
-## Tarun Sarpanjeri
+## Tarun Sarpanjeri - section-01
 
 ## Assigned Play
 
@@ -10,7 +10,7 @@
 ## Speakers
 
 - Speaker 1 - VIOLA
-- Speaker 2 - SIR TOBY BELCH
+- Speaker 2 - OLIVIA
 
 ## Question
 
