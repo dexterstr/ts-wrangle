@@ -5,6 +5,8 @@
 
 ## Assigned Play 
 - Twelfth Night
+- [Play url](http://shakespeare.mit.edu/twelfth_night/full.html)
+
 
 ## Speakers
 
