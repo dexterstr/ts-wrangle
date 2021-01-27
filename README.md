@@ -32,7 +32,8 @@ OLIVIA speaks more times than VIOLA.
 
 ## input file
 
-[input file]()
+[input file](https://github.com/dexterstr/ts-wrangle/blob/main/Data.txt)
+<br>
 [output file]()
 
 #### other commands
