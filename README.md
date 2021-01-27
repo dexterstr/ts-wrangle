@@ -22,7 +22,7 @@ tr '[:space:]' '[\n*]' < Data.txt | grep -i -c VIOLA
 Result: 137
 <br>
 
-[Otput file speaker 1]()
+[Otput file speaker 1](https://github.com/dexterstr/ts-wrangle/blob/main/viola.txt)
 
 ## command used to find number of times speaker2 spoken
 
@@ -30,7 +30,7 @@ tr '[:space:]' '[\n*]' < Data.txt | grep -i -c OLIVIA
 Result: 153
 <br>
 
-[Otput file speaker 2]()
+[Otput file speaker 2](https://github.com/dexterstr/ts-wrangle/blob/main/olivia.txt)
 
 ## Result
 
